@@ -1,0 +1,3 @@
+echo "Harry Programmer and the Sorcerer's Code: Scene 1" >> scene-1.txt
+cat scene-1.txt
+touch scene-2.txt
